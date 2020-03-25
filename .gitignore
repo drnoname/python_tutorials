@@ -1,4 +1,5 @@
 
 .DS_Store
 python_basic/.ipynb_checkpoints/*.ipynb
-.ipynb_checkpoints/Chapter_2_An_Array_of_Sequences-checkpoint.ipynb
+.ipynb_checkpoints/*.ipynb
+python_advanced/.ipynb_checkpoints/*.ipynb
