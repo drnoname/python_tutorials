@@ -3,3 +3,4 @@
 python_basic/.ipynb_checkpoints/*.ipynb
 .ipynb_checkpoints/*.ipynb
 python_advanced/.ipynb_checkpoints/*.ipynb
+python_basic/backup/*
