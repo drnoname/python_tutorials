@@ -1,8 +1,11 @@
 
 .DS_Store
 python_basic/.ipynb_checkpoints/*.ipynb
-.ipynb_checkpoints/*.ipynb
+data_structure/.ipynb_checkpoints/*.ipynb
 python_advanced/.ipynb_checkpoints/*.ipynb
+.ipynb_checkpoints/*.ipynb
 python_basic/backup/*
 performance/*/.ipynb_checkpoints/*
-data_structure/.ipynb_checkpoints/tuple-checkpoint.ipynb
+python_advanced/Chapter_2_An_Array_of_Sequences/floats.bin
+python_advanced/Chapter_2_An_Array_of_Sequences/floats.txt
+python_advanced/Chapter_2_An_Array_of_Sequences/floats-numpy.npy
