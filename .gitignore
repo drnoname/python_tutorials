@@ -9,3 +9,4 @@ performance/*/.ipynb_checkpoints/*
 python_advanced/Chapter_2_An_Array_of_Sequences/floats.bin
 python_advanced/Chapter_2_An_Array_of_Sequences/floats.txt
 python_advanced/Chapter_2_An_Array_of_Sequences/floats-numpy.npy
+python_advanced/*/.ipynb_checkpoints/*.ipynb
