@@ -1,0 +1,4 @@
+Get the list of occurrences for word, or [] if not found.
+Append new location to occurrences.
+Put changed occurrences into index dict; this entails a second search through the index.
+In the key= argument of sorted I am not calling str.upper, just passing a reference to that method so the sorted function can use it to normalize the words for sorting
